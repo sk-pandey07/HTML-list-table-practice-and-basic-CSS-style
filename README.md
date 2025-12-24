@@ -2,7 +2,7 @@
 
 This project is a beginner-level practice of **HTML tables** and **basic CSS styling**.
 
-## 📌 What I Practiced
+##  What I Practiced
 - Creating an HTML table
 - Using table caption
 - Table rows and columns
@@ -12,7 +12,7 @@ This project is a beginner-level practice of **HTML tables** and **basic CSS sty
   - Table styling
   - Caption styling
 
-## 🧾 Project Preview
+##  Project Preview
 The table displays a **Student Record** with the following fields:
 - Name
 - Age
@@ -20,16 +20,16 @@ The table displays a **Student Record** with the following fields:
 - Subject
 - Marks
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML5
 - CSS3 (internal CSS)
 
 
-## 🎯 Purpose
+## Purpose
 - Practice HTML table structure
 - Understand basic CSS styling
 - Maintain daily GitHub practice
 
-## ✍ Author
+## Author
 Shashikant Kumar
 
